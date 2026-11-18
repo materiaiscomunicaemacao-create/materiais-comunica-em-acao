@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Comunic@ Em Ação"},{"path":"/catalogo","title":"Catálogo de materiais"},{"path":"/produto/:id","title":"Detalhes do material"},{"path":"/sobre","title":"Sobre a marca"},{"path":"/contato","title":"Contato"},{"path":"/carrinho","title":"Carrinho"},{"path":"/compras","title":"Minhas compras"},{"path":"/admin","title":"Administração"}]}
